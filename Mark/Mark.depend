@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555845816 source:c:\users\markr\onedrive\desktop\c programming\mark\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555845778 source:c:\users\markr\onedrive\desktop\c programming\mark\variables.c
+	<stdio.h>
+	<stdlib.h>
+

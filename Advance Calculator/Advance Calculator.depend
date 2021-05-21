@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559109592 source:c:\users\markr\onedrive\desktop\c programming\advance calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
